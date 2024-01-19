@@ -59,16 +59,34 @@
         </label>
       <?php endforeach; ?>
     </div>
-    <div class="fixed-bottom container p-2 border rounded-top bg-light shadow-sm"><div class="input-group"><input id="input_csv" readonly="readonly" class="form-control form-control-lg" type="text" value="" /> <button class="btn btn-outline-secondary" type="button">Copier</button></div>
+    <div class="fixed-bottom container p-2 bg-light border rounded-top shadow-sm"><div class="input-group"><input id="input_csv" readonly="readonly" class="form-control font-monospace" style="font-size: .875em !important;" type="text" value="" /> <button id="btn_copier" class="btn btn-outline-primary" type="button" onclick="navigator.clipboard.writeText(document.getElementById('input_csv').value); setTimeout(function() { document.getElementById('btn_copier').innerText = '📋 Copier'; }, 2500); this.innerText='✅ Copié!';">📋 Copier</button></div>
   </div>
   <script>
     var update = function() {
-      document.getElementById('input_csv').value = document.getElementById('input_cuvee').value+";"+document.getElementById('input_histoire1').value+";"+document.getElementById('input_histoire2').value+";"+document.querySelector('input[name=recto]').value+";"+document.querySelector('input[name=verso]').value;
+      let recto = "";
+      document.querySelectorAll('input[name=recto]').forEach(function(input) {
+        if(input.checked) {
+          recto = input.value;
+        }
+      });
+      let verso = "";
+      document.querySelectorAll('input[name=verso]').forEach(function(input) {
+        if(input.checked) {
+          verso = input.value;
+        }
+      });
+
+      document.getElementById('input_csv').value = document.getElementById('input_cuvee').value+";"+document.getElementById('input_histoire1').value+";"+document.getElementById('input_histoire2').value+";"+recto+";"+verso;
     }
     document.querySelectorAll('input').forEach(function(input) {
+      if(input.id == 'input_csv') {
+        return;
+      }
       input.addEventListener('change', function() { update(); });
+      input.addEventListener('click', function() { update(); });
       input.addEventListener('keyup', function() { update(); });
     });
+      document.getElementById('input_csv').addEventListener('focus', function() { this.select(); });
     update();
   </script>
 </body>
