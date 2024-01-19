@@ -150,7 +150,7 @@
    id="QRcode"
    transform="matrix(2.032,0,0,2.032,79.599999,88.406002)">
 
-   %QRCODE%
+   <g style="stroke:#000000">%QRCODE%</g>
 
   </g><g
    id="g3366"
