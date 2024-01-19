@@ -19,7 +19,7 @@
     <div class="row pt-3 pb-3 bg-light sticky-top border rounded-bottom shadow-sm">
       <div class="col-2">
         <div class="form-floating">
-          <input type="text" name="cuvee" class="form-control" id="input_cuvee" value="<?php echo $cuvee ?>">
+          <input type="text" autofocus="autofocus" name="cuvee" class="form-control" id="input_cuvee" value="<?php echo $cuvee ?>">
           <label for="floatingInput">Cuvée</label>
         </div>
       </div>
