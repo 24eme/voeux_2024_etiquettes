@@ -19,19 +19,19 @@
     <div class="row pt-3 pb-3 bg-light sticky-top border rounded-bottom shadow-sm">
       <div class="col-2">
         <div class="form-floating">
-          <input type="text" name="cuvee" class="form-control" id="floatingInput" value="<?php echo $cuvee ?>">
+          <input type="text" name="cuvee" class="form-control" id="input_cuvee" value="<?php echo $cuvee ?>">
           <label for="floatingInput">Cuvée</label>
         </div>
       </div>
       <div class="col-4">
         <div class="form-floating">
-          <input required="required" type="text" name="histoire1" class="form-control" value="<?php echo $histoire1 ?>">
+          <input required="required" type="text" name="histoire1" id="input_histoire1" class="form-control" value="<?php echo $histoire1 ?>">
           <label for="floatingInput">1ère ligne de la contre étiquette</label>
         </div>
       </div>
       <div class="col-4">
         <div class="form-floating">
-          <input type="text" name="histoire2" class="form-control" value="<?php echo $histoire2 ?>">
+          <input type="text" name="histoire2" class="form-control" id="input_histoire2" value="<?php echo $histoire2 ?>">
           <label for="floatingInput">2ème ligne de la contre étiquette</label>
         </div>
       </div>
@@ -39,6 +39,7 @@
         <button type="sublmit" class="btn btn-outline-primary btn-lg">Voir</button>
       </div>
     </div>
+    </form>
     <div class="rounded m-2">
       <?php foreach(scandir('etiquettes/rectos/') as $file): ?>
         <?php if(!is_file('etiquettes/rectos/'.$file)): continue; endif; ?>
@@ -58,8 +59,17 @@
         </label>
       <?php endforeach; ?>
     </div>
-    <div class="fixed-bottom container p-2 border rounded-top bg-light shadow-sm"><div class="input-group"><input readonly="readonly" class="form-control form-control-lg" type="text" />  <button class="btn btn-outline-secondary" type="button">Copier</button></div>
-    </form>
+    <div class="fixed-bottom container p-2 border rounded-top bg-light shadow-sm"><div class="input-group"><input id="input_csv" readonly="readonly" class="form-control form-control-lg" type="text" value="" /> <button class="btn btn-outline-secondary" type="button">Copier</button></div>
   </div>
+  <script>
+    var update = function() {
+      document.getElementById('input_csv').value = document.getElementById('input_cuvee').value+";"+document.getElementById('input_histoire1').value+";"+document.getElementById('input_histoire2').value+";"+document.querySelector('input[name=recto]').value+";"+document.querySelector('input[name=verso]').value;
+    }
+    document.querySelectorAll('input').forEach(function(input) {
+      input.addEventListener('change', function() { update(); });
+      input.addEventListener('keyup', function() { update(); });
+    });
+    update();
+  </script>
 </body>
 </html>
