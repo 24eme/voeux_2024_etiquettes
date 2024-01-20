@@ -25,14 +25,14 @@
      inkscape:document-units="cm"
      showgrid="false"
      inkscape:zoom="1.0697664"
-     inkscape:cx="305.6742"
-     inkscape:cy="235.56544"
+     inkscape:cx="305.67421"
+     inkscape:cy="235.56545"
      inkscape:window-width="1624"
      inkscape:window-height="1011"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g2966"
+     inkscape:current-layer="g1"
      showguides="true"><sodipodi:guide
        position="24.755743,18.239684"
        orientation="0,-1"
@@ -1451,18 +1451,18 @@
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.8635px;font-family:Purisa;-inkscape-font-specification:Purisa;text-align:center;white-space:pre;shape-inside:url(#rect2936);display:inline;fill:#000000;stroke:none"><tspan
      x="-89.576318"
      y="388.1753"
-     id="tspan34426"><tspan
+     id="tspan2048"><tspan
        style="font-weight:bold;font-family:Quicksand;-inkscape-font-specification:'Quicksand Bold';fill:#aa8800"
-       id="tspan34424">2024</tspan></tspan></text><text
+       id="tspan2046">2024</tspan></tspan></text><text
    xml:space="preserve"
    transform="matrix(0.26449741,0,0,0.26425872,25.373182,13.341595)"
    id="text2936-6"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.0621px;font-family:Purisa;-inkscape-font-specification:Purisa;text-align:center;white-space:pre;shape-inside:url(#rect2936-6);display:inline;fill:#000000;stroke:none"><tspan
      x="-99.205747"
      y="390.209"
-     id="tspan34430"><tspan
+     id="tspan2052"><tspan
        style="font-weight:bold;font-family:Quicksand;-inkscape-font-specification:'Quicksand Bold';fill:#aa8800"
-       id="tspan34428">Cuvée</tspan></tspan></text>
+       id="tspan2050">Cuvée</tspan></tspan></text>
                          
                          
                        </g><text
@@ -1476,7 +1476,7 @@
                      id="tspan52731"
                      x="44.206936"
                      y="134.95343"
-                     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.58619px;font-family:Quicksand;-inkscape-font-specification:'Quicksand Bold';fill:#a02c2c;fill-opacity:1">Cuvée %CUVEE%</tspan></text></g></g></g></g><g
+                     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.58619px;font-family:Quicksand;-inkscape-font-specification:'Quicksand Bold';fill:#a02c2c;fill-opacity:1">%CUVEE%</tspan></text></g></g></g></g><g
            id="g2944"
            transform="matrix(0.92751327,0,0,0.92667623,18.18968,4.2612526)"
            style="display:inline"><g

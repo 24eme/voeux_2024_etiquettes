@@ -28,9 +28,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="6.7277217"
-     inkscape:cx="69.265648"
-     inkscape:cy="41.024289"
+     inkscape:zoom="3.0042663"
+     inkscape:cx="40.276057"
+     inkscape:cy="46.267536"
      inkscape:window-width="1624"
      inkscape:window-height="1011"
      inkscape:window-x="0"
@@ -293,14 +293,15 @@
     <text
        xml:space="preserve"
        id="text3431"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'TeX Gyre Chorus';-inkscape-font-specification:'TeX Gyre Chorus, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'TeX Gyre Chorus';-inkscape-font-specification:'TeX Gyre Chorus, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:label="CUVEE"
        x="31.615473"
        y="14.136424"><tspan
          sodipodi:role="line"
          id="tspan52731"
          x="31.615473"
-         y="14.136424">Cuvée %CUVEE%</tspan></text>
+         y="14.136424"
+         style="font-size:6.35px">Cuvée %CUVEE%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:5.29167px;line-height:2.50552px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"

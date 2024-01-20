@@ -391,12 +391,12 @@
    style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2024);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
      x="378.92969"
      y="324.39258"
-     id="tspan12271">
+     id="tspan743">
 </tspan></text>
 <text
    xml:space="preserve"
    id="text3431"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.7434px;line-height:20.3025px;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.525px;line-height:18px;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
    inkscape:label="CUVEE"
    x="49.414486"
    y="76.631401"><tspan
@@ -404,7 +404,7 @@
      id="tspan52731"
      x="49.414486"
      y="76.631401"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.7434px;font-family:'TeX Gyre Chorus';-inkscape-font-specification:'TeX Gyre Chorus'">Cuvée %CUVEE%</tspan></text>
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Chorus';-inkscape-font-specification:'TeX Gyre Chorus';font-size:9.525px">Cuvée %CUVEE%</tspan></text>
          <path
    style="fill:#008000;stroke:#000000;stroke-width:0.125899px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
    d="m 33.773889,53.257024 0.418651,0.425955 0.177185,0.554037 -0.241392,0.778561 -0.499084,0.132269 -0.574038,0.479435 -0.684871,-0.413622 -0.263047,-0.262001 -0.410356,0.312287 -0.218386,0.740908 -1.005651,0.4497 -0.198191,0.206989 -0.291805,-0.174332 -0.239591,-0.604133 -0.586044,-0.15106 -0.190673,-0.396687 0.176753,-0.554422 0.02896,-0.620754 0.194495,-0.326025 0.860975,-0.523859 0.247072,0.07055 0.527122,0.396073 0.704667,-0.397824 0.37581,-0.05259 0.245955,0.106383 0.218457,0.188184 0.491205,-0.487129 z"
@@ -506,6 +506,6 @@
    style="font-style:normal;font-weight:normal;font-size:53.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect875);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
      x="193.88867"
      y="939.91534"
-     id="tspan12275"><tspan
+     id="tspan747"><tspan
        style="font-family:Quicksand;-inkscape-font-specification:Quicksand"
-       id="tspan12273">AOC Bonne Année</tspan></tspan></text></g></svg>
+       id="tspan745">AOC Bonne Année</tspan></tspan></text></g></svg>
