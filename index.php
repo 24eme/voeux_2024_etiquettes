@@ -44,7 +44,7 @@
       <?php foreach(scandir('etiquettes/rectos/') as $file): ?>
         <?php if(!is_file('etiquettes/rectos/'.$file)): continue; endif; ?>
         <label>
-        <img src="generate/000000000000_<?php echo $file ?>" class="img-thumbnail mt-3" style="height: 225px;"/>
+        <img src="generate/000000000000_<?php echo $file ?>" class="img-thumbnail mt-3" style="height: 225px; cursor: pointer;"/>
         <input name="recto" type="radio" value="<?php echo $file ?>" />
         </label>
       <?php endforeach; ?>
@@ -54,7 +54,7 @@
       <?php foreach(scandir('etiquettes/versos/') as $file): ?>
         <?php if(!is_file('etiquettes/versos/'.$file)): continue; endif; ?>
         <label>
-        <img src="generate/000000000000_<?php echo $file ?>" class="img-thumbnail mt-1" style="height: 225px;"/>
+        <img src="generate/000000000000_<?php echo $file ?>" class="img-thumbnail mt-1 pointer" style="height: 225px; cursor: pointer;"/>
         <input name="verso" type="radio" value="<?php echo $file ?>" />
         </label>
       <?php endforeach; ?>
