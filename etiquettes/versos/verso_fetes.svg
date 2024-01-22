@@ -146,21 +146,21 @@
    inkscape:label="product of france"><tspan
      x="68.271484"
      y="292.01415"
-     id="tspan424"><tspan
+     id="tspan498"><tspan
        style="font-family:Loma;-inkscape-font-specification:Loma;fill:#cfbea1"
-       id="tspan422">Mis en bouteille dans le 18ème
+       id="tspan496">Mis en bouteille dans le 18ème
 </tspan></tspan><tspan
      x="68.271484"
      y="306.89064"
-     id="tspan428"><tspan
+     id="tspan502"><tspan
        style="font-family:Loma;-inkscape-font-specification:Loma;fill:#cfbea1"
-       id="tspan426">Produit de France
+       id="tspan500">Produit de France
 </tspan></tspan><tspan
      x="68.271484"
      y="321.76714"
-     id="tspan432"><tspan
+     id="tspan506"><tspan
        style="font-family:Loma;-inkscape-font-specification:Loma;fill:#cfbea1"
-       id="tspan430">100% made with free software</tspan></tspan></text>
+       id="tspan504">100% made with free software</tspan></tspan></text>
            <text
    xml:space="preserve"
    id="text3431"
@@ -178,11 +178,11 @@
    style="font-size:1.76389px;line-height:2.19545px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#cfbea1;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
    inkscape:label="HISTOIRE1"
    x="25.001841"
-   y="19.828773"><tspan
+   y="20.357941"><tspan
      sodipodi:role="line"
      id="tspan52731-5"
      x="25.001841"
-     y="19.828773"
+     y="20.357941"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:'Latin Modern Roman Unslanted';-inkscape-font-specification:'Latin Modern Roman Unslanted';fill:#cfbea1;fill-opacity:1;stroke:none">%HISTOIRE2%</tspan></text>
            <text
    xml:space="preserve"
@@ -228,9 +228,9 @@
      inkscape:label="ingredients"><tspan
        x="29.824219"
        y="120.57718"
-       id="tspan436"><tspan
+       id="tspan510"><tspan
          style="font-family:Loma;-inkscape-font-specification:Loma"
-         id="tspan434">Ingrédients</tspan></tspan></text><text
+         id="tspan508">Ingrédients</tspan></tspan></text><text
      xml:space="preserve"
      transform="matrix(0.10152308,0,0,0.10152308,0.61102438,37.077371)"
      id="text3-6"
@@ -238,9 +238,9 @@
      inkscape:label="ingredients"><tspan
        x="29.824219"
        y="120.57718"
-       id="tspan440"><tspan
+       id="tspan514"><tspan
          style="font-family:Loma;-inkscape-font-specification:Loma"
-         id="tspan438">24 kCal</tspan></tspan></text><g
+         id="tspan512">24 kCal</tspan></tspan></text><g
      id="QRcode"
      transform="matrix(0.44480088,0,0,0.44480088,1.0457447,36.046256)"
      inkscape:label="QRcode"
