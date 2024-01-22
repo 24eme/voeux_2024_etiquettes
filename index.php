@@ -35,7 +35,13 @@
           <label for="floatingInput">2ème ligne de la contre étiquette</label>
         </div>
       </div>
-      <div class="col-2">
+      <div class="col-1">
+        <div class="form-floating">
+          <input type="text" name="qrcode" class="form-control" id="input_qrcode" value="<?php echo '0'.substr(md5(uniqid()), 0, 7) ?>">
+          <label for="floatingInput">QRCode</label>
+        </div>
+      </div>
+      <div class="col-1">
         <button type="sublmit" class="btn btn-outline-primary btn-lg">Voir</button>
       </div>
     </div>
@@ -76,7 +82,7 @@
         }
       });
 
-      document.getElementById('input_csv').value = document.getElementById('input_cuvee').value+";"+document.getElementById('input_histoire1').value+";"+document.getElementById('input_histoire2').value+";"+recto+";"+verso;
+      document.getElementById('input_csv').value = document.getElementById('input_cuvee').value+";"+document.getElementById('input_histoire1').value+";"+document.getElementById('input_histoire2').value+";"+recto+";"+verso+";"+  document.getElementById('input_qrcode').value;
     }
     document.querySelectorAll('input').forEach(function(input) {
       if(input.id == 'input_csv') {
