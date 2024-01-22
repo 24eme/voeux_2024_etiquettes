@@ -102,10 +102,10 @@
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
    showgrid="false"
-   showguides="false"
-   inkscape:zoom="2.8095058"
-   inkscape:cx="99.305722"
-   inkscape:cy="64.424142"
+   showguides="true"
+   inkscape:zoom="5.0635377"
+   inkscape:cx="227.21269"
+   inkscape:cy="225.53402"
    inkscape:window-width="1624"
    inkscape:window-height="1011"
    inkscape:window-x="0"
@@ -142,7 +142,15 @@
      id="guide9482"
      inkscape:locked="false" /><inkscape:grid
      type="xygrid"
-     id="grid16853" /></sodipodi:namedview>
+     id="grid16853" /><sodipodi:guide
+     position="57.193245,76.146053"
+     orientation="0,-1"
+     id="guide1063"
+     inkscape:locked="false" /><sodipodi:guide
+     position="238.98606,51.634662"
+     orientation="1,0"
+     id="guide1065"
+     inkscape:locked="false" /></sodipodi:namedview>
 <style
    type="text/css"
    id="style2">
@@ -165,9 +173,19 @@
    y="-23.800871"
    inkscape:label="fond" /><g
    id="QRcode"
-   transform="matrix(2.9089514,0,0,2.9089514,166.26488,165.73307)">
+   transform="matrix(2.2363659,0,0,2.2363659,183.07951,174.99211)"
+   style="fill:#ffffff">
+   <rect
+   x="0"
+   y="0"
+   width="25"
+   height="25"
+   fill="#33497b"
+   id="rect3659"
+   inkscape:label="rect3659"
+   style="fill:#ffffff" />
    <g
-   style="stroke: #000000"
+   style="fill:#ffffff;stroke:#000000"
    id="g20111">%QRCODE%</g>
  </g><path
    inkscape:connector-curvature="0"
@@ -302,6 +320,28 @@
      x="120.94487"
      y="106.9316"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Latin Modern Mono Light Cond';-inkscape-font-specification:'Latin Modern Mono Light Cond';fill:#72735d;fill-opacity:1;stroke:none">%HISTOIRE1%</tspan></text><text
+   xml:space="preserve"
+   id="text3431-2-3"
+   style="font-size:9.33333px;line-height:11.6168px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   inkscape:label="HISTOIRE1"
+   x="208.65727"
+   y="171.52824"><tspan
+     sodipodi:role="line"
+     id="tspan52731-7-6"
+     x="208.65727"
+     y="171.52824"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333px;font-family:'Latin Modern Mono Light Cond';-inkscape-font-specification:'Latin Modern Mono Light Cond';fill:#000000;fill-opacity:1;stroke:none">Ingrédients</tspan></text><text
+   xml:space="preserve"
+   id="text3431-2-3-7"
+   style="font-size:9.33333px;line-height:11.6168px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   inkscape:label="HISTOIRE1"
+   x="209.7731"
+   y="239.0787"><tspan
+     sodipodi:role="line"
+     id="tspan52731-7-6-5"
+     x="209.7731"
+     y="239.0787"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333px;font-family:'Latin Modern Mono Light Cond';-inkscape-font-specification:'Latin Modern Mono Light Cond';fill:#000000;fill-opacity:1;stroke:none">24 kCal</tspan></text><text
    xml:space="preserve"
    id="text3431-2-0"
    style="font-size:12.2461px;line-height:15.2423px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#72735d;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
