@@ -24,7 +24,7 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="3.3275615"
-     inkscape:cx="187.37445"
+     inkscape:cx="183.16716"
      inkscape:cy="103.07849"
      inkscape:window-width="1624"
      inkscape:window-height="1011"
@@ -146,21 +146,21 @@
    inkscape:label="product of france"><tspan
      x="68.271484"
      y="292.01415"
-     id="tspan498"><tspan
+     id="tspan2665"><tspan
        style="font-family:Loma;-inkscape-font-specification:Loma;fill:#cfbea1"
-       id="tspan496">Mis en bouteille dans le 18ème
+       id="tspan2663">Mis en bouteille dans le 18ème
 </tspan></tspan><tspan
      x="68.271484"
      y="306.89064"
-     id="tspan502"><tspan
+     id="tspan2669"><tspan
        style="font-family:Loma;-inkscape-font-specification:Loma;fill:#cfbea1"
-       id="tspan500">Produit de France
+       id="tspan2667">Produit de France
 </tspan></tspan><tspan
      x="68.271484"
      y="321.76714"
-     id="tspan506"><tspan
+     id="tspan2673"><tspan
        style="font-family:Loma;-inkscape-font-specification:Loma;fill:#cfbea1"
-       id="tspan504">100% made with free software</tspan></tspan></text>
+       id="tspan2671">100% made with free software</tspan></tspan></text>
            <text
    xml:space="preserve"
    id="text3431"
@@ -207,7 +207,7 @@
      id="tspan437"
      x="25.003082"
      y="5.1446881"
-     style="font-size:3.52778px">Cuvée %CUVEE%</tspan></text>
+     style="font-size:3.52778px">%CUVEE%</tspan></text>
        <g
    id="g488"
    inkscape:label="separation"><path
@@ -228,9 +228,9 @@
      inkscape:label="ingredients"><tspan
        x="29.824219"
        y="120.57718"
-       id="tspan510"><tspan
+       id="tspan2677"><tspan
          style="font-family:Loma;-inkscape-font-specification:Loma"
-         id="tspan508">Ingrédients</tspan></tspan></text><text
+         id="tspan2675">Ingrédients</tspan></tspan></text><text
      xml:space="preserve"
      transform="matrix(0.10152308,0,0,0.10152308,0.61102438,37.077371)"
      id="text3-6"
@@ -238,9 +238,9 @@
      inkscape:label="ingredients"><tspan
        x="29.824219"
        y="120.57718"
-       id="tspan514"><tspan
+       id="tspan2681"><tspan
          style="font-family:Loma;-inkscape-font-specification:Loma"
-         id="tspan512">24 kCal</tspan></tspan></text><g
+         id="tspan2679">24 kCal</tspan></tspan></text><g
      id="QRcode"
      transform="matrix(0.44480088,0,0,0.44480088,1.0457447,36.046256)"
      inkscape:label="QRcode"

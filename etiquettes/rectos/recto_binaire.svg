@@ -28,7 +28,7 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="2.3786088"
-     inkscape:cx="58.857934"
+     inkscape:cx="52.761934"
      inkscape:cy="135.79366"
      inkscape:window-width="1624"
      inkscape:window-height="1011"
@@ -144,6 +144,6 @@
          sodipodi:role="line"
          id="tspan52731"
          x="31.992065"
-         y="9.822216">Cuvée %CUVEE%</tspan></text>
+         y="9.822216">%CUVEE%</tspan></text>
   </g>
 </svg>

@@ -28,7 +28,7 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="2.3786088"
-     inkscape:cx="133.27118"
+     inkscape:cx="127.17518"
      inkscape:cy="103.00138"
      inkscape:window-width="1624"
      inkscape:window-height="1011"
@@ -359,9 +359,9 @@
          y="54.849083"><tspan
            sodipodi:role="line"
            id="tspan52731"
-           x="31.711605"
+           x="31.711603"
            y="54.849083"
-           style="font-size:5.29167px">Cuvée %CUVEE%</tspan></text>
+           style="font-size:5.29167px">%CUVEE%</tspan></text>
     </g>
     <g
        id="g1746"

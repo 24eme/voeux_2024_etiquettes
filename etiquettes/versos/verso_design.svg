@@ -104,8 +104,8 @@
    showgrid="false"
    showguides="true"
    inkscape:zoom="2.7028871"
-   inkscape:cx="191.83191"
-   inkscape:cy="161.30899"
+   inkscape:cx="186.28229"
+   inkscape:cy="131.71101"
    inkscape:window-width="1624"
    inkscape:window-height="1011"
    inkscape:window-x="0"
@@ -291,7 +291,7 @@
      id="tspan437"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.1094px;font-family:'Latin Modern Mono Light Cond';-inkscape-font-specification:'Latin Modern Mono Light Cond';fill:#72735d;fill-opacity:1;stroke:none"
      x="120.90266"
-     y="59.296555">Cuvée %CUVEE%</tspan></text>
+     y="59.296555">%CUVEE%</tspan></text>
 <path
    style="fill:#8d8ca2;stroke-width:2.81328;fill-opacity:1"
    d="m 71.370029,36.088498 c 98.598191,1.580437 99.149701,0.478663 99.149701,0.478663 z"

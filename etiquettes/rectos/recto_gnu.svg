@@ -26,7 +26,7 @@
      showgrid="false"
      showguides="true"
      inkscape:zoom="2.8839583"
-     inkscape:cx="56.519541"
+     inkscape:cx="51.491729"
      inkscape:cy="96.742037"
      inkscape:window-width="1624"
      inkscape:window-height="1011"
@@ -1161,7 +1161,7 @@
          id="tspan52731"
          x="24.908705"
          y="38.789536"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:monospace;-inkscape-font-specification:monospace">Cuvée %CUVEE%</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:monospace;-inkscape-font-specification:monospace">%CUVEE%</tspan></text>
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:3.52778px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';fill:#000000;stroke-width:0.264583"

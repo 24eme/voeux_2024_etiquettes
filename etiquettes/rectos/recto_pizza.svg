@@ -28,14 +28,14 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="2.3786088"
-     inkscape:cx="-3.3633105"
+     inkscape:cx="-9.4593108"
      inkscape:cy="149.66732"
      inkscape:window-width="1624"
      inkscape:window-height="1011"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g1144" />
+     inkscape:current-layer="g1117" />
   <defs
      id="defs2">
     <inkscape:path-effect
@@ -784,7 +784,7 @@
              sodipodi:role="line"
              id="tspan52731"
              x="31.992065"
-             y="10.351382">Cuvée %CUVEE%</tspan></text>
+             y="10.351382">%CUVEE%</tspan></text>
       </g>
     </g>
     <g

@@ -28,7 +28,7 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.4142136"
-     inkscape:cx="433.10289"
+     inkscape:cx="422.49629"
      inkscape:cy="184.55486"
      inkscape:window-width="1624"
      inkscape:window-height="1011"
@@ -109,7 +109,9 @@
    id="text3335"
    inkscape:label="Domaine"><tspan
      sodipodi:role="line"
-     id="tspan437">Cuvée %CUVEE%</tspan></text><g
+     id="tspan437"
+     x="105.91016"
+     y="42.022556">%CUVEE%</tspan></text><g
    id="g3386"
    transform="translate(0.82327661,-89.958383)"
    style="opacity:0.5"><text
