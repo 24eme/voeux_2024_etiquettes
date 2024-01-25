@@ -27,9 +27,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="422.49629"
-     inkscape:cy="184.55486"
+     inkscape:zoom="0.7071068"
+     inkscape:cx="741.75499"
+     inkscape:cy="520.43058"
      inkscape:window-width="1624"
      inkscape:window-height="1011"
      inkscape:window-x="0"
@@ -72,48 +72,48 @@
    xml:space="preserve"
    style="font-size:25.4px;line-height:43.2954px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
    x="105.21704"
-   y="168.59058"
+   y="169.6489"
    id="text3319"
    inkscape:label="Voeux d'origine"><tspan
      sodipodi:role="line"
      id="tspan3317"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583px"
      x="105.21704"
-     y="168.59058">Voeux d'origines libérés</tspan></text><text
+     y="169.6489">Voeux d'origines libérés</tspan></text><text
    xml:space="preserve"
    style="font-size:25.4px;line-height:43.2954px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
    x="200.94676"
-   y="185.76053"
+   y="186.81885"
    id="text3323"
    inkscape:label="AOC"><tspan
      sodipodi:role="line"
      id="tspan3321"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.6389px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.264583px"
      x="200.94676"
-     y="185.76053">AOC Bonne année 2024</tspan></text><text
+     y="186.81885">AOC Bonne année 2024</tspan></text><text
    xml:space="preserve"
    style="font-size:25.4px;line-height:43.2954px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
    x="182.14203"
-   y="21.868032"
+   y="24.513868"
    id="text3315"
    inkscape:label="Domaine"><tspan
      sodipodi:role="line"
      id="tspan3313"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.1667px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.264583px"
      x="182.14203"
-     y="21.868032">Domaine 24ème</tspan></text><text
+     y="24.513868">Domaine 24ème</tspan></text><text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.875px;line-height:43.2954px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
    x="105.91016"
-   y="42.022556"
+   y="44.668392"
    id="text3335"
    inkscape:label="Domaine"><tspan
      sodipodi:role="line"
      id="tspan437"
      x="105.91016"
-     y="42.022556">%CUVEE%</tspan></text><g
+     y="44.668392">%CUVEE%</tspan></text><g
    id="g3386"
-   transform="translate(0.82327661,-89.958383)"
+   transform="translate(0.82327661,-88.900049)"
    style="opacity:0.5"><text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:43.2954px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -150,7 +150,7 @@
        y="289.20602">24 cl</tspan></text></g>
            <g
    id="QRcode"
-   transform="matrix(2.032,0,0,2.032,79.599999,88.406002)">
+   transform="matrix(2.032,0,0,2.032,79.599999,93.697672)">
 
    <g
    style="stroke:#000000"
@@ -158,7 +158,7 @@
 
   </g><g
    id="g3366"
-   transform="matrix(0.65149398,0,0,0.65149398,37.480777,-12.19145)"
+   transform="matrix(0.65149398,0,0,0.65149398,37.480777,-6.8997818)"
    inkscape:label="QR zone">
 
 
@@ -191,21 +191,21 @@
    style="font-size:7.40833px;line-height:9.22088px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
    inkscape:label="HISTOIRE1"
    x="105.91016"
-   y="57.666626"><tspan
+   y="61.370796"><tspan
      sodipodi:role="line"
      id="tspan52731"
      x="105.91016"
-     y="57.666626"
+     y="61.370796"
      style="font-size:7.40833px">%HISTOIRE1%</tspan></text><text
    xml:space="preserve"
    id="text3431-3"
    style="font-size:7.40833px;line-height:9.22088px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
    inkscape:label="HISTOIRE1"
    x="105.91003"
-   y="68.187309"><tspan
+   y="71.891479"><tspan
      sodipodi:role="line"
      id="tspan52731-5"
      x="105.91003"
-     y="68.187309"
+     y="71.891479"
      style="font-size:7.40833px">%HISTOIRE2%</tspan></text>
      </g></svg>
