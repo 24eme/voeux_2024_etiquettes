@@ -3,6 +3,8 @@
 SESSIONDATE=$(date +%Y%m%d%H%M%S)
 QRCODEIMPRESSION_FILE=/tmp/qrcode_impression_$SESSIONDATE.csv
 
+mkdir generate 2> /dev/null
+
 echo -n > $QRCODEIMPRESSION_FILE
 
 cat - | while read csvline;

@@ -4,6 +4,8 @@ CUVEE=$1
 HISTOIRE1=$2
 HISTOIRE2=$3
 
+mkdir generate 2> /dev/null
+
 ls etiquettes/rectos | while read template; do
   cat etiquettes/rectos/$template | sed "s/%CUVEE%/$CUVEE/" > generate/000000000000_$template
 done;
