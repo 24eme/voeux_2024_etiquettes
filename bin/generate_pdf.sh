@@ -30,7 +30,7 @@ do
     QRCODE1=$QRCODE
   elif ! test $QRCODE2; then
     QRCODE2=$QRCODE
-  else
+  elif ! test $QRCODE3; then
     QRCODE3=$QRCODE
   fi
   cat etiquettes/impression/impression.svg | sed "s/recto_1.svg/"$QRCODE1"_recto.svg/" | sed "s/verso_1.svg/"$QRCODE1"_verso.svg/" | sed "s/recto_2.svg/"$QRCODE2"_recto.svg/" | sed "s/verso_2.svg/"$QRCODE2"_verso.svg/" | sed "s/recto_3.svg/"$QRCODE3"_recto.svg/" | sed "s/verso_3.svg/"$QRCODE3"_verso.svg/"  > generate/impression_"$SESSIONDATE"_$(printf %03d $NBPAGE).svg
