@@ -26,7 +26,7 @@
      showgrid="false"
      showguides="true"
      inkscape:zoom="1"
-     inkscape:cx="373"
+     inkscape:cx="374"
      inkscape:cy="181"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
@@ -85,19 +85,11 @@
        inkscape:label="text"
        style="display:inline"
        transform="matrix(1.8921383,0,0,1.8939752,-183.20514,-154.75043)">
-      <text
-         xml:space="preserve"
-         style="font-size:14.6886px;line-height:20.8185px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#277767;fill-opacity:1;stroke:none;stroke-width:0.147812;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.941176"
-         x="139.91171"
-         y="87.207489"
-         id="text594"
-         transform="scale(0.88091964,1.1351773)"
-         inkscape:label="NUTRI"><tspan
-           sodipodi:role="line"
-           id="tspan592"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.6886px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#277767;fill-opacity:1;stroke:none;stroke-width:0.147812"
-           x="139.91171"
-           y="87.207489">NUTRI</tspan></text>
+      <path
+         id="path261"
+         style="font-weight:bold;font-size:14.6886px;line-height:20.8185px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#277767;stroke-width:0.147812;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.941176"
+         d="m 142.09472,86.840431 h 2.43247 v 12.155531 h -2.43247 z m -6.50765,5.389794 q 0.76449,0 1.09304,-0.366377 0.33485,-0.366375 0.33485,-1.204969 0,-0.830451 -0.33485,-1.188685 -0.32855,-0.358234 -1.09304,-0.358234 h -1.02353 v 3.118265 z m -1.02353,2.165686 v 4.600051 h -2.43247 V 86.840431 h 3.71505 q 1.86384,0 2.72942,0.806026 0.87189,0.806027 0.87189,2.548347 0,1.204968 -0.4549,1.978428 -0.44858,0.77346 -1.35839,1.139836 0.49912,0.14655 0.89085,0.667618 0.39805,0.512925 0.8024,1.563203 l 1.32049,3.452073 h -2.59043 l -1.1499,-3.020564 q -0.34749,-0.911868 -0.70762,-1.245678 -0.35381,-0.333809 -0.94771,-0.333809 z m -12.38348,-7.55548 h 8.6937 v 2.369229 h -3.12745 v 9.786302 h -2.43248 V 89.20966 h -3.13377 z m -9.38239,0 h 2.43248 v 7.286805 q 0,1.506212 0.37908,2.157546 0.38541,0.643192 1.25098,0.643192 0.8719,0 1.25098,-0.643192 0.38542,-0.651334 0.38542,-2.157546 v -7.286805 h 2.43246 v 7.286805 q 0,2.580913 -1.00457,3.842874 -1.00459,1.261961 -3.06429,1.261961 -2.05338,0 -3.05795,-1.261961 -1.00459,-1.261961 -1.00459,-3.842874 z m -10.82922,0 h 2.71678 l 3.43072,8.337082 v -8.337082 h 2.30612 v 12.155531 h -2.71679 l -3.43073,-8.337083 v 8.337083 h -2.3061 z"
+         inkscape:label="NUTRI" />
       <ellipse
          style="fill:#ffcc00;fill-opacity:1;stroke:none;stroke-width:0.234432;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.941176"
          id="path750"
@@ -106,19 +98,11 @@
          rx="2.6209209"
          ry="2.4022222"
          inkscape:label="point" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:23.8073px;line-height:16.8713px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#277767;fill-opacity:1;stroke:none;stroke-width:0.171124;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.941176"
-         x="130.77332"
-         y="122.83778"
-         id="text754"
-         transform="scale(0.94782399,1.0550482)"
-         inkscape:label="VIN"><tspan
-           sodipodi:role="line"
-           id="tspan752"
-           style="font-size:23.8073px;fill:#277767;fill-opacity:1;stroke:none;stroke-width:0.171124"
-           x="130.77332"
-           y="122.83778">VIN</tspan></text>
+      <path
+         id="path249"
+         d="m 129.50874,111.28877 h 4.73779 l 5.98284,12.55893 v -12.55893 h 4.02162 v 18.31101 h -4.73779 l -5.98285,-12.55893 v 12.55893 h -4.02161 z m -8.39582,0 h 4.24198 v 18.31101 h -4.24198 z m -19.42497,0 h 4.26402 l 4.36318,13.51556 4.35216,-13.51556 h 4.26401 l -6.09302,18.31101 h -5.05732 z"
+         inkscape:label="VIN"
+         style="font-weight:bold;font-size:23.8073px;line-height:16.8713px;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#277767;stroke-width:0.171124;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0.941176" />
     </g>
   </g>
 </svg>
